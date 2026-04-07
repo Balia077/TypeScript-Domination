@@ -1,17 +1,17 @@
 // Unknown
 
-let a: unknown;
+let un: unknown;
 
-a = 12;
-a = "balia";
+un = 12;
+un = "balia";
 
 // same as any but there is a difference
 
 // a.toUpperCase();    // it's not valid for unknown
 
-let b;
+let c;
 
-b = 13;
-b = "Balaram";
+c = 13;
+c = "Balaram";
 
-b.toUpperCase();    // it's valid
+c.toUpperCase();    // it's valid

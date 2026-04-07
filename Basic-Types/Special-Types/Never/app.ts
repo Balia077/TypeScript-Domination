@@ -1,6 +1,6 @@
 // Never
 
-function abcd(): never {
+function yoo(): never {
     while (true) {}
 }
 
