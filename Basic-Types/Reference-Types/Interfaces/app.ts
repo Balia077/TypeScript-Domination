@@ -1,5 +1,5 @@
 // Interfaces 
-// Type aliases
+
 
 interface User{
     name: string,
