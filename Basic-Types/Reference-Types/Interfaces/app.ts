@@ -13,3 +13,10 @@ function abcd(obj: User) {
 }
 
 abcd({name: "balaram", email: "balaram@ex.com", password: "abcd"});
+
+// Extending Interfaces
+
+interface Admin extends User {
+    admin: boolean;
+}
+
