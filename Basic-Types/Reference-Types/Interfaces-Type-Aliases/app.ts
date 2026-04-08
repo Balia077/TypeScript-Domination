@@ -9,5 +9,7 @@ interface User{
 }
 
 function abcd(obj: User) {
-    
+    console.log(obj);
 }
+
+abcd({name: "balaram", email: "balaram@ex.com", password: "abcd"});
