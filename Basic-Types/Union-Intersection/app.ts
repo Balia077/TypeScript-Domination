@@ -10,10 +10,10 @@ type User1 = {
     email: string
 }
 
-type Admin1 = User & {
+type Admin1 = User1 & {
     getUser(user: string): void;
 }
 
-function yoo(obj: Admin){
+function yoo(obj: Admin1){
     
 }
