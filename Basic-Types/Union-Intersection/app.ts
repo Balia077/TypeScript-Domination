@@ -1,7 +1,7 @@
 // Union and Intersection
 
 // Union
-let un: string | null;
+let un: string | number;
 
 // Intersection
 
