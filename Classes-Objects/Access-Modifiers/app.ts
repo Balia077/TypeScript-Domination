@@ -53,3 +53,19 @@
 // }
 
 // let b1 = new MetalBottleMaker();
+
+
+// Readonly Poperties
+
+// class User {
+//     constructor(public readonly name: string) {
+
+//     }
+
+//     changeName() {
+//         this.name = "hellyow";
+//     }
+// }
+
+// let u1 = new User("Balaram");
+// u1.changeName();
