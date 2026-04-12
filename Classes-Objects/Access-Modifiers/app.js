@@ -47,3 +47,4 @@
 // }
 // let u1 = new User("Balaram");
 // u1.changeName();
+// console.log(u1);
